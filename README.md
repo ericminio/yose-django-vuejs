@@ -1,1 +1,1 @@
-# yose-django-vuejs
+Playing Yose with Django and vue
