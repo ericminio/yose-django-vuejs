@@ -1,1 +1,1 @@
-Playing Yose with Django and vue
+Playing Yose with Django and Vuejs
